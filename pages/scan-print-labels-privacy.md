@@ -44,6 +44,10 @@ You can delete local products, templates, queues, history, and backups in the ap
 
 Limited subscription, entitlement, and device metadata is retained while needed to provide Pro access, prevent fraud, resolve support requests, and meet legal or accounting obligations. You may request deletion of account metadata by contacting us; information that must be retained by law may not be deleted immediately.
 
+## Account deletion requests
+
+To request deletion of your Scan Print Labels account and associated subscription-service data, email [blackpill@msn.com](mailto:blackpill@msn.com) with the subject **Scan Print Labels account deletion request**. Include the Google account email used in the app so we can identify the account. We will delete the account identifier, email or display name, entitlement records, and registered-device metadata, except for information that must be retained for fraud prevention, legal, or accounting reasons. Products, templates, print history, and backups stored only on your device are not deleted by an email request; clear them in the app or Android settings.
+
 ## Security
 
 Subscription session data is encrypted on the device. The subscription service uses authenticated requests, app isolation, and hashed purchase tokens. No security measure can guarantee absolute protection.
