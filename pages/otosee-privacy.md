@@ -2,21 +2,21 @@
 layout: page
 title: "OtoSee Privacy Policy"
 subheadline: "Privacy Policy"
-teaser: "How OtoSee handles camera media, inspection records, voice notes, diagnostics, and purchases."
+teaser: "How OtoSee handles camera media, inspection records, diagnostics, and platform-specific features."
 permalink: "/otosee/privacy/"
 ---
 
-**Effective date: September 6, 2026**
+**Effective date: September 14, 2026**
 
-OtoSee is an iOS app provided by TCool LTD for viewing compatible Wi-Fi otoscope and inspection cameras and creating inspection records. This Privacy Policy explains what information OtoSee processes and the choices available to you.
+OtoSee is a mobile app provided by TCool LTD for viewing compatible Wi-Fi otoscope and inspection cameras and recording observations. OtoSee is available in platform-specific editions for iOS and Android. This Privacy Policy explains what information OtoSee processes and the choices available to you.
 
 ## Summary
 
-OtoSee is designed to work without an account, advertising, or third-party behavioral analytics. Camera images, videos, inspection labels, annotations, written notes, voice notes, narrated videos, and PDF reports are stored locally on your device by default. OtoSee does not automatically upload this content to TCool LTD.
+OtoSee is designed to work without an account, advertising, or third-party behavioral analytics. Camera images, videos, inspection records, annotations, written notes, voice notes, narrated videos, and PDF reports are stored locally on your device by default when those features are available in your edition. OtoSee does not automatically upload this content to TCool LTD.
 
 ## Information processed on your device
 
-OtoSee may process and store the following information locally:
+Depending on your platform and app edition, OtoSee may process and store the following information locally:
 
 - photos and videos received from a compatible camera;
 - inspection titles, optional subject names, summaries, left/right/general labels, part tags, and media notes;
@@ -24,30 +24,42 @@ OtoSee may process and store the following information locally:
 - microphone recordings that you create as voice notes;
 - narrated MP4 files and PDF reports generated at your request;
 - compatible-device information such as product identifier, manufacturer, model, firmware information, local network interface details, and Wi-Fi network name when available to the app;
-- app settings, onboarding status, cached subscription entitlement, and pending upgrade intent; and
+- app settings and onboarding status, plus cached subscription entitlement and pending upgrade intent where subscriptions are offered; and
 - connection diagnostics and technical errors used to explain camera or storage failures.
 
 This information is used only to provide the app's viewing, recording, inspection, export, purchase, recovery, and troubleshooting features.
 
 ## Permissions
 
-OtoSee requests permissions only when needed:
+OtoSee requests platform permissions only when needed.
+
+On Android:
+
+- **Nearby Wi-Fi devices** and, on Android versions that require it, **local network access** allow the app to discover and communicate with a compatible camera on the Wi-Fi network you joined.
+- OtoSee does not request camera, microphone, location, notification, Bluetooth, or broad photo-library read permission. The connected otoscope supplies the camera image.
+- Saving an app-created photo or video through Android's system media APIs does not give OtoSee permission to browse your existing photo library.
+
+On iOS:
 
 - **Local Network** allows the app to discover and communicate with a compatible camera on the Wi-Fi network you joined.
 - **Microphone** allows you to record optional voice notes and create narrated videos.
 - **Photos — Add Only** allows you to save a selected photo or video to your Photos library. OtoSee does not request permission to browse your entire Photos library.
 
-You can change permissions in iOS Settings. Denying an optional permission disables the related feature but does not cause OtoSee to upload your content.
+You can change permissions in Android or iOS Settings. Denying an optional permission disables the related feature but does not cause OtoSee to upload your content.
 
 ## Purchases
 
-OtoSee may offer Inspection Pro as an auto-renewable subscription. Apple processes purchases, payment methods, storefront information, renewals, cancellations, and refunds. OtoSee receives StoreKit product information and verified purchase or entitlement status so it can display localized offers and unlock eligible features. TCool LTD does not receive or store your full payment-card details through the app.
+The iOS edition may offer Inspection Pro as an auto-renewable subscription. Apple processes purchases, payment methods, storefront information, renewals, cancellations, and refunds. OtoSee receives StoreKit product information and verified purchase or entitlement status so it can display localized offers and unlock eligible features. TCool LTD does not receive or store your full payment-card details through the app.
+
+The Android edition described by this policy does not currently offer in-app purchases or use Google Play Billing.
 
 ## Sharing and exported copies
 
-OtoSee shares content only when you choose an export or system sharing action. The iOS share sheet may send selected photos, videos, audio, comparison images, or PDF reports to an app, person, device, or service you select. Those recipients and services handle the shared copies under their own terms and privacy practices.
+OtoSee shares content only when you choose an export or system sharing action. The Android or iOS system share interface may send selected photos, videos, audio, comparison images, PDF reports, or redacted diagnostic text to an app, person, device, or service you select. Those recipients and services handle the shared copies under their own terms and privacy practices.
 
-Copies saved to Photos or Files are controlled separately from OtoSee. They may sync through Apple services according to your device and iCloud settings. App data may also be included in an Apple-managed device backup according to your backup settings. TCool LTD does not operate those Apple services.
+Copies saved to Photos, Files, or Android shared media storage are controlled separately from OtoSee. They may sync through platform or third-party services according to your device settings. TCool LTD does not operate those services.
+
+The Android edition disables operating-system cloud backup and device-to-device transfer for its private app storage. This does not affect copies that you explicitly export or share. The iOS edition may be included in an Apple-managed device backup according to your backup settings.
 
 ## Diagnostics and support
 
@@ -70,7 +82,7 @@ App content remains on your device until you delete it, clear the app's data, or
 - You can delete individual media items and inspection records in OtoSee.
 - Deleting an inspection can remove its derived files; deletion of referenced original media requires a separate confirmation.
 - Copies exported to Photos, Files, another app, another device, or another person must be deleted from those destinations separately.
-- Uninstalling OtoSee removes its local app container according to iOS behavior, but does not remove copies previously exported elsewhere or retained in a device backup.
+- Uninstalling OtoSee removes its local app container according to the platform's behavior, but does not remove copies previously exported elsewhere. An iOS device backup may retain app data according to your Apple backup settings; the Android edition disables backup and device-to-device transfer for its private app storage.
 
 If you previously contacted us, you may request deletion of the personal information contained in your support correspondence by emailing the address below. We may retain limited records where required for security, dispute resolution, or legal compliance.
 
@@ -80,7 +92,7 @@ OtoSee is not directed to children under 13. A parent or guardian may use the ap
 
 ## Health and medical information
 
-Ear images and related notes may be sensitive. OtoSee processes this content locally and does not connect to HealthKit or an electronic health-record service. OtoSee is an observation and recordkeeping tool, not a medical device, and does not diagnose, treat, cure, or prevent any disease or condition.
+Ear images and related notes may be sensitive. OtoSee processes this content locally and does not connect to Apple HealthKit, Android Health Connect, or an electronic health-record service. OtoSee is an observation and recordkeeping tool, not a medical device, and does not diagnose, treat, cure, or prevent any disease or condition.
 
 ## Changes to this policy
 

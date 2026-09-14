@@ -6,13 +6,15 @@ teaser: "Terms for using OtoSee with compatible Wi-Fi otoscope and inspection ca
 permalink: "/otosee/terms/"
 ---
 
-**Effective date: September 6, 2026**
+**Effective date: September 14, 2026**
 
-These Terms of Use govern your use of OtoSee, an iOS application provided by TCool LTD. By downloading or using OtoSee, you agree to these Terms. These Terms supplement the [Apple Standard End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). If these Terms conflict with Apple's terms for the licensed application or an Apple transaction, Apple's applicable terms control for that subject.
+These Terms of Use govern your use of OtoSee, a mobile application provided by TCool LTD in platform-specific editions for iOS and Android. By downloading or using OtoSee, you agree to these Terms.
+
+For the iOS edition, these Terms supplement the [Apple Standard End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). If these Terms conflict with Apple's terms for the licensed application or an Apple transaction, Apple's applicable terms control for that subject. Your use of the Android edition is also subject to the applicable Google Play terms.
 
 ## What OtoSee does
 
-OtoSee connects to supported Wi-Fi otoscope and inspection cameras, displays their live image, captures photos and videos, and helps you organize optional inspection records. Inspection records may include labels, annotations, written notes, voice notes, narrated MP4 files, before-and-after comparisons, and PDF reports.
+OtoSee connects to supported Wi-Fi otoscope and inspection cameras, displays their live image, and captures photos and videos. Depending on your platform and app edition, OtoSee may also help you organize optional inspection records with labels, annotations, written notes, voice notes, narrated MP4 files, before-and-after comparisons, and PDF reports.
 
 OtoSee does not require an account and its core inspection content is stored locally by default.
 
@@ -30,19 +32,19 @@ You must not use OtoSee to violate another person's privacy, access a device or 
 
 ## Device compatibility and connectivity
 
-OtoSee supports only camera protocols and devices that TCool LTD identifies as compatible. Compatibility can depend on camera hardware, firmware, Wi-Fi configuration, iOS version, permissions, and network behavior. A device may use the same brand name while using a different or incompatible protocol.
+OtoSee supports only camera protocols and devices that TCool LTD identifies as compatible. Compatibility can depend on camera hardware, firmware, Wi-Fi configuration, operating-system version, permissions, and network behavior. A device may use the same brand name while using a different or incompatible protocol.
 
-Camera Wi-Fi commonly has no internet connection. Live viewing and local editing may continue offline, but purchases, restoration, and current StoreKit product information require access to Apple services. TCool LTD does not guarantee compatibility with every otoscope, endoscope, router, iPhone, iOS release, or future firmware version.
+Camera Wi-Fi commonly has no internet connection. Live viewing and local editing may continue offline. In the iOS edition, purchases, restoration, and current StoreKit product information require access to Apple services. TCool LTD does not guarantee compatibility with every otoscope, endoscope, router, phone, Android or iOS release, or future firmware version.
 
 ## Free features and free inspection
 
-Connection, live viewing, photos, and basic silent video remain available without an Inspection Pro subscription, subject to compatibility and device storage.
+Connection, live viewing, photos, and basic silent video remain available without an Inspection Pro subscription, subject to compatibility and device storage. The current Android edition does not offer a subscription.
 
-A user without Inspection Pro may retain and fully use one inspection session, including its available labels, annotations, voice notes, narrated video, same-session comparison, and PDF export. If no other inspection is retained, deleting that inspection allows another free inspection to be created. A former subscriber who retains additional read-only history can instead select one retained inspection as the free editable inspection. Product behavior shown in the current app controls if these features change in a future version.
+In the iOS edition, a user without Inspection Pro may retain and fully use one inspection session, including its available labels, annotations, voice notes, narrated video, same-session comparison, and PDF export. If no other inspection is retained, deleting that inspection allows another free inspection to be created. A former subscriber who retains additional read-only history can instead select one retained inspection as the free editable inspection. Product behavior shown in the current app controls if these features change in a future version.
 
 ## Inspection Pro subscription
 
-Inspection Pro may provide unlimited inspection sessions, inspection history management, cross-session comparison, and the inspection editing and export features described on the App Store and purchase screen.
+Inspection Pro is an iOS-only offering at the effective date of these Terms. It may provide unlimited inspection sessions, inspection history management, cross-session comparison, and the inspection editing and export features described on the App Store and purchase screen.
 
 Inspection Pro is offered through Apple as an auto-renewable monthly or annual subscription:
 
@@ -64,19 +66,21 @@ You are responsible for the content you create, the people whose information it 
 
 ## Storage, backups, and loss
 
-You are responsible for maintaining sufficient device storage and any backups you need. Exported copies in Photos, Files, another app, or another device are managed separately. Operations may fail because of storage limits, damaged files, interrupted system processes, permission changes, or unavailable Apple services.
+You are responsible for maintaining sufficient device storage and any backups you need. Exported copies in Photos, Files, Android shared media storage, another app, or another device are managed separately. Operations may fail because of storage limits, damaged files, interrupted system processes, permission changes, or unavailable platform services.
+
+The Android edition disables operating-system cloud backup and device-to-device transfer for its private app storage. Uninstalling it removes that private storage. This does not remove copies that you previously exported or shared. The iOS edition may participate in Apple-managed backup according to your device settings.
 
 OtoSee includes recovery measures intended to protect original media and completed exports, but no storage system can guarantee against every hardware failure, operating-system failure, deletion, corruption, or loss. Review important files and keep appropriate copies before relying on them.
 
 ## Availability and updates
 
-We may update OtoSee to improve security, compatibility, subscriptions, or functionality. We may add, change, suspend, or discontinue features or device support. Some updates may be required for continued use with newer versions of iOS, StoreKit, or camera firmware.
+We may update OtoSee to improve security, compatibility, subscriptions, or functionality. We may add, change, suspend, or discontinue features or device support. Some updates may be required for continued use with newer versions of Android, iOS, StoreKit, Google Play services, or camera firmware.
 
-We do not guarantee uninterrupted operation, uninterrupted App Store service, or perpetual compatibility with a particular third-party device.
+We do not guarantee uninterrupted operation, uninterrupted App Store or Google Play service, or perpetual compatibility with a particular third-party device.
 
 ## Intellectual property
 
-OtoSee, its software, design, branding, and TCool LTD-provided content are owned by TCool LTD or its licensors and are protected by applicable intellectual-property laws. These Terms grant only the limited right to use the app under these Terms and Apple's applicable license; they do not transfer ownership.
+OtoSee, its software, design, branding, and TCool LTD-provided content are owned by TCool LTD or its licensors and are protected by applicable intellectual-property laws. These Terms grant only the limited right to use the app under these Terms and the applicable app-store license; they do not transfer ownership.
 
 ## Disclaimer and limitation of liability
 
@@ -88,7 +92,7 @@ Nothing in these Terms excludes warranties, consumer rights, or liabilities that
 
 ## Termination
 
-You may stop using OtoSee at any time. We may suspend access to a feature where reasonably necessary to address unlawful use, security risk, fraud, platform requirements, or legal obligations. Subscription cancellation and refunds remain subject to Apple's processes.
+You may stop using OtoSee at any time. We may suspend access to a feature where reasonably necessary to address unlawful use, security risk, fraud, platform requirements, or legal obligations. Subscription cancellation and refunds for the iOS edition remain subject to Apple's processes.
 
 ## Changes to these Terms
 
